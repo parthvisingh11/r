@@ -1,0 +1,1 @@
+This is a try to implement NTRU, a post quantum cryptosystem. There are two servers, bad server file can decrypt the content. poly file has all the polynomial functions required for NTRU. The lll file is the main attack file. 
